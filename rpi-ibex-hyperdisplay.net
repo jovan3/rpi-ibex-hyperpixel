@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/yovan/Documents/electronics/kicad/rpi-ibex-hyperdisplay/rpi-ibex-hyperdisplay.sch)
-    (date "Wed 02 Oct 2019 19:48:59 EEST")
+    (date "Wed 02 Oct 2019 21:17:45 EEST")
     (tool "Eeschema 5.1.4-e60b266~84~ubuntu18.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
